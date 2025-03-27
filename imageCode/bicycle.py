@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 
-def draw_minimalist_bike():
+def draw_minimalist_bicycle():
     # Create a new figure
     fig, ax = plt.subplots()
     
