@@ -27,4 +27,4 @@ def draw_minimalist_car():
     return fig
 
 # Generate and show the minimalist car illustration with the front window placed on the right side
-figure_with_correct_window = draw_minimalist_car_with_correct_window()
+figure_with_correct_window = draw_minimalist_car()
