@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-def draw_minimalist_car_with_correct_window():
+def draw_minimalist_car():
     fig, ax = plt.subplots()
     
     # Draw the car body
