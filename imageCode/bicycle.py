@@ -37,4 +37,4 @@ def draw_minimalist_bicycle():
     return fig
 
 # Generate and display the bike
-figure = draw_bike()
+figure = draw_minimalist_bicycle()
