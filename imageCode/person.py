@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-def draw_minimalist_person_adjusted():
+def draw_minimalist_person():
     fig, ax = plt.subplots()
     
     # Draw the body
