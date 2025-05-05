@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-def draw_minimalist_stoplight():
+def draw_minimalist_traffic_light():
     fig, ax = plt.subplots()
     
     # Draw the stoplight pole
