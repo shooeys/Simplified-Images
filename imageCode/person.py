@@ -33,4 +33,4 @@ def draw_minimalist_person():
     return fig
 
 # Generate and show the adjusted minimalist person illustration
-figure_person_adjusted = draw_minimalist_person_adjusted()
+figure_person_adjusted = draw_minimalist_person()
